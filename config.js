@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281224863098'],
+  ['6283113989278'],
   ['0'],
-  ['6281224863098', 'Della', true]
+  ['6282188104475', 'Della', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -21,7 +21,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  'https://zenzapis.xyz': '1675E43DA4'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Created By'
-global.author = 'Cloud Bot'
+global.packname = 'Created By KazuKiBotz'
+global.author = 'KazuKiBotz'
 
 global.multiplier = 69 // The higher, The harder levelup
 
