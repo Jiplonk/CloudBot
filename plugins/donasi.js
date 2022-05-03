@@ -1,6 +1,6 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi 」
-│ • https://saweria.co/itsmedell
+│ • Dana : 087899922661
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
